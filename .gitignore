@@ -1,0 +1,9 @@
+# Environment variables (never commit secrets!)
+.env
+
+# Node modules (these are installed via npm install, don't commit)
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
